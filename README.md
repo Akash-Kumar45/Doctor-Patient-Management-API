@@ -9,3 +9,10 @@ API methods for doctors
 API mwthods for patients
 ![Screenshot 2024-07-05 025000](https://github.com/Akash-Kumar45/Doctor-Patient-Management-API/assets/143485812/9cba3764-82d0-4bab-b41c-dce0e04a75ea)
 
+
+
+Error occuring and handling
+
+![Screenshot 2024-07-04 173550](https://github.com/Akash-Kumar45/Doctor-Patient-Management-API/assets/143485812/a57cd9db-a97b-44b5-8de0-eb4b78ddd0b9)
+
+
