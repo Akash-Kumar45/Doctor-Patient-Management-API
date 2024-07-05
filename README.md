@@ -1,5 +1,5 @@
 # Doctor-Patient-Management-API
-The main files are included in the src folder which includes for Doctor and Patients
+THE MAIN FILES ARE INCLUDED IN SRC FOLDER WHICH INCLUDES MAIN AND TESTING FILES.
 
 
 Technologies and Software used: Java, Eclipse, Postman, Spring Boot, JPA, Hibernate and other Spring Boot tools
