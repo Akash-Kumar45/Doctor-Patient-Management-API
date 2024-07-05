@@ -11,8 +11,4 @@ API methods for patients
 
 
 
-Error occuring and handling
-
-![Screenshot 2024-07-04 173550](https://github.com/Akash-Kumar45/Doctor-Patient-Management-API/assets/143485812/a57cd9db-a97b-44b5-8de0-eb4b78ddd0b9)
-
 
