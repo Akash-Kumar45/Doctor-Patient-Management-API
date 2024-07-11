@@ -47,6 +47,8 @@ RESPONSE
 
 
 --> 4) REMOVING THE PATIENT
+
+RESPONSE
 ![Screenshot 2024-07-11 153120](https://github.com/Akash-Kumar45/Doctor-Patient-Management-API/assets/143485812/82375738-85fc-4c60-b15f-8188fe0d8463)
 
 
