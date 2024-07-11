@@ -8,11 +8,14 @@ Technologies and Software used: Java, Eclipse, Postman, Spring Boot, JPA, Hibern
 
 
 API methods for doctors
-![Screenshot 2024-07-05 024947](https://github.com/Akash-Kumar45/Doctor-Patient-Management-API/assets/143485812/e292570a-dfc7-4502-9411-4fbb39bf4c21)
-
+POST
+DELETE
+PUT and othere
 
 API methods for patients
-![Screenshot 2024-07-05 025000](https://github.com/Akash-Kumar45/Doctor-Patient-Management-API/assets/143485812/9cba3764-82d0-4bab-b41c-dce0e04a75ea)
+POST
+DELETE
+PUT and others
 
 IN PROJECT I MADE THESE APIs BUT NOT USED ALL METHODS IN CODE SO I HAVE SHOWN ONLY FOR ADDING AND REMOVING
 
