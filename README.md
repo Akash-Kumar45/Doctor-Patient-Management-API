@@ -1,6 +1,8 @@
 # Doctor-Patient-Management-API
 THE MAIN FILES ARE INCLUDED IN SRC FOLDER WHICH INCLUDES MAIN AND TESTING FILES.
 
+=====FEW METHODS ARE NOT WRITTEN IN CODE BUT I HAVE TESTED THE ALL APIs FOR DOCTOR AND PATIENTS
+
 
 Technologies and Software used: Java, Eclipse, Postman, Spring Boot, JPA, Hibernate and other Spring Boot tools
 
@@ -16,6 +18,19 @@ API methods for patients
 Postman for getting different methods for doctors and Patients
 
 ![Screenshot 2024-07-05 102632](https://github.com/Akash-Kumar45/Doctor-Patient-Management-API/assets/143485812/247ddf74-25c2-4eda-b28f-4ea6e819414d)
+
+
+--> 1) ADDING THE DOCTOR
+
+REQUEST 
+![Screenshot 2024-07-11 151429](https://github.com/Akash-Kumar45/Doctor-Patient-Management-API/assets/143485812/dcb28160-7115-435e-a493-7722541ac8dd)
+
+RESPONSE 
+![Screenshot 2024-07-11 152846](https://github.com/Akash-Kumar45/Doctor-Patient-Management-API/assets/143485812/261cf120-a34b-40c0-8e4b-f165e6140812)
+
+
+
+
 
 
 
