@@ -14,6 +14,10 @@ API methods for doctors
 API methods for patients
 ![Screenshot 2024-07-05 025000](https://github.com/Akash-Kumar45/Doctor-Patient-Management-API/assets/143485812/9cba3764-82d0-4bab-b41c-dce0e04a75ea)
 
+IN PROJECT I MADE THESE APIs BUT NOT USED ALL METHODS IN CODE SO I HAVE SHOWN ONLY FOR ADDING AND REMOVING
+
+
+
 
 Postman for getting different methods for doctors and Patients
 
