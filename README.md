@@ -7,14 +7,14 @@ THE MAIN FILES ARE INCLUDED IN SRC FOLDER WHICH INCLUDES MAIN AND TESTING FILES.
 Technologies and Software used: Java, Eclipse, Postman, Spring Boot, JPA, Hibernate and other Spring Boot tools
 
 
-API methods for doctors
-POST
-DELETE
+API methods for doctors are
+POST,
+DELETE,
 PUT and othere
 
-API methods for patients
-POST
-DELETE
+API methods for patients are
+POST,
+DELETE,
 PUT and others
 
 IN PROJECT I MADE THESE APIs BUT NOT USED ALL METHODS IN CODE SO I HAVE SHOWN ONLY FOR ADDING AND REMOVING
